@@ -2,10 +2,6 @@
     "version": 2,
     "builds": [
         {
-            "src": "public/index.php",
-            "use": "@vercel/php"
-        },
-        {
             "src": "package.json",
             "use": "@vercel/node",
             "config": {
@@ -17,7 +13,7 @@
     "routes": [
         {
             "src": "/(.*)",
-            "dest": "public/index.php"
+            "dest": "/public/index.php"
         }
     ],
     "env": {
