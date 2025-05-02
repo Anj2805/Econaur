@@ -1,6 +1,6 @@
-# Econaur - Economic Data Management Platform
+# Econaur - Waste and Compost Management Platform
 
-Econaur is a modern web application built with Laravel and Vite, designed to provide a robust and efficient platform for economic and financial data management.
+Econaur is a modern web application built with Laravel and Vite, designed to provide a robust and efficient platform for Waste and Compost management.
 
 ## Features
 
